@@ -1,5 +1,5 @@
 {
-  "name": "@microservices-boilerplate/api-gateway",
+  "name": "@microservices-boilerplate/user-service",
   "scripts": {
     "build": "nest build",
     "dev": "nest start --watch",

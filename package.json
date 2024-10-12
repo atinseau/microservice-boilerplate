@@ -1,5 +1,5 @@
 {
-  "name": "rabbit-mq",
+  "name": "@microservices-boilerplate/root",
   "type": "module",
   "workspaces": [
     "apps/*",
