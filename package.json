@@ -1,0 +1,15 @@
+{
+  "name": "rabbit-mq",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel"
+  },
+  "packageManager": "bun@1.1.30",
+  "dependencies": {
+    "turbo": "^2.1.3"
+  }
+}
