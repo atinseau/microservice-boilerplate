@@ -2,7 +2,7 @@
   "name": "@microservices-boilerplate/root",
   "type": "module",
   "workspaces": [
-    "apps/*",
+    "apps/**/*",
     "packages/*"
   ],
   "scripts": {

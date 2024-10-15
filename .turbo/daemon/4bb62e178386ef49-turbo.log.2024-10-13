@@ -1,0 +1,655 @@
+2024-10-13T10:57:29.271723Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T10:57:29.271740Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T10:57:29.372264Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/daemon/4bb62e178386ef49-turbo.log.2024-10-12"), AnchoredSystemPathBuf(".turbo/daemon/4bb62e178386ef49-turbo.log.2024-10-13")}
+2024-10-13T10:57:29.372278Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T10:57:33.171940Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T10:57:33.171952Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T10:57:43.170556Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T10:57:43.170568Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T10:57:46.970802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T10:57:46.970812Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T10:57:49.670888Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T10:57:49.670906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T10:59:30.169289Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:30.169312Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:32.668866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:32.668876Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:37.968614Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:37.968622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:41.068137Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:41.068155Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:45.168185Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:45.168203Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:46.968149Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:46.968159Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:49.767406Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:49.767424Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:51.268226Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:51.268243Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T10:59:55.068182Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T10:59:55.068194Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:00:57.167690Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:00:57.167707Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:00:59.767728Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:00:59.767742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:01:05.566792Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:01:05.566801Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:01:09.367351Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:01:09.367366Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:01:12.967678Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:01:12.967691Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:01:16.866981Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T11:01:16.866990Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:05:11.164348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:11.164367Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:12.264374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:12.264383Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:13.764323Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:13.764337Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:24.964212Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:24.964224Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:29.163912Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:29.163934Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:32.164021Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:32.164039Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:46.464296Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T11:05:46.464316Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:05:49.962815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:49.962823Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:05:55.862731Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:05:55.862745Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:06:06.563476Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:06:06.563486Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:06:10.563565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:06:10.563575Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:06:13.863811Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:06:13.863821Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:06:15.463449Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:06:15.463464Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:06:16.463365Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:06:16.463381Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:06:36.162864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.controller.ts")}
+2024-10-13T11:06:36.162878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:06:38.463336Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.controller.ts")}
+2024-10-13T11:06:38.463348Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:06:48.262887Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:06:48.262898Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:06:53.863395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:06:53.863411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:06:55.962943Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:06:55.962958Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:06.163232Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:07:06.163241Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:07:10.262779Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T11:07:10.262789Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:07:17.063373Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:07:17.063386Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:19.962069Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:07:19.962080Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:25.763076Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:07:25.763091Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:31.563036Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.service.ts")}
+2024-10-13T11:07:31.563056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:41.062820Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T11:07:41.062835Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:42.662007Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T11:07:42.662026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:07:59.461888Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:07:59.461897Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:08:01.361608Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T11:08:01.361619Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T11:08:15.261519Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie")}
+2024-10-13T11:08:15.261527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:10:48.359852Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T11:10:48.359871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:10:51.359784Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T11:10:51.359796Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:10:51.368290Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T11:10:54.260050Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T11:10:54.260062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:11:54.159436Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/5.cookie")}
+2024-10-13T11:11:54.159443Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T11:13:41.557760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T11:13:41.557773Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T11:13:44.957536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T11:13:44.957555Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:23:53.831316Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/common/dto/env.dto.ts")}
+2024-10-13T12:23:53.831332Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:23:59.832492Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/common/dto/env.dto.ts")}
+2024-10-13T12:23:59.832510Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:30.235334Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:30.235349Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:31.435050Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:31.435060Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:34.034371Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:34.034389Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:36.034464Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:36.034477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:39.934972Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:39.934995Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:44.134026Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:44.134042Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:46.634828Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:46.634840Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:49.134811Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:49.134828Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:28:52.134408Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:28:52.134424Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:02.234219Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:02.234237Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:05.834725Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:05.834736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:10.234677Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:10.234696Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:14.134604Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:14.134619Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:15.334916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:15.334932Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:18.235244Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:18.235252Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:20.234405Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:20.234415Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:27.034546Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:27.034558Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:29.034444Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:29.034462Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:32.034576Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:32.034591Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:29:33.833418Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:29:33.833435Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:15.234363Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:15.234380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:21.234261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:21.234279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:23.434456Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:23.434475Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:26.635385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:26.635398Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:28.734108Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:28.734124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:30.733963Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:30.733973Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:34.334583Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:34.334601Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:39.834425Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:39.834445Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:44.834373Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:44.834386Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:49.134261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:49.134279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:51.534880Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:51.534898Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:55.334823Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:55.334846Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:30:57.933975Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:30:57.933993Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:31:01.234767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:31:01.234785Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:31:02.734552Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:31:02.734569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:31:04.034267Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:31:04.034280Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:31:16.734555Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:31:16.734569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:31:20.634978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/6.cookie")}
+2024-10-13T12:31:20.634986Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T12:31:36.834879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/7.cookie")}
+2024-10-13T12:31:36.834889Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T12:31:50.635010Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:31:50.635025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:04.433696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:04.433712Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:05.833949Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:05.833961Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:08.035106Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:08.035126Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:12.933757Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:12.933764Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:17.034719Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:17.034731Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:27.635102Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:27.635121Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:42.634989Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:32:42.635004Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:56.534344Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:32:56.534362Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:32:59.334220Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:32:59.334237Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:13.734213Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:13.734233Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:16.634656Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:16.634670Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:20.333432Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:20.333440Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:30.334178Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:30.334197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:34.234827Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:34.234843Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:33:42.434232Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:33:42.434248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:35:10.434646Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:35:10.434655Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:35:14.934602Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:35:14.934615Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:41:54.834180Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:41:54.834197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:41:54.834213Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T12:42:36.234118Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:36.234142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:38.334122Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:38.334135Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:43.533635Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:43.533649Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:46.634302Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:46.634317Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:51.034635Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:51.034648Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:57.834548Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:57.834570Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:42:59.433305Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:42:59.433314Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:43:43.033090Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:43:43.033102Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:43:46.033877Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:43:46.033886Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:43:49.933769Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:43:49.933788Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:06.633913Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/app.module.ts")}
+2024-10-13T12:44:06.633924Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:06.656191Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T12:44:39.833663Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:39.833678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:45.433672Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:45.433691Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:50.634063Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:50.634075Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:52.033713Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:52.033726Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:56.433027Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:56.433048Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:44:58.934304Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:44:58.934318Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:45:02.533910Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:45:02.533926Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:52:05.433576Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:52:05.433600Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:52:49.933453Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:52:49.933480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:52:51.733356Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:52:51.733375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:52:58.631593Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:52:58.631611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:53:00.829263Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:53:00.829278Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:53:03.827225Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:53:03.827246Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:53:07.025263Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:53:07.025283Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:53:11.722763Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:53:11.722776Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:53:13.622440Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:53:13.622463Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:54:42.015926Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:54:42.015947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:54:43.216324Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:54:43.216333Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:54:48.016693Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:54:48.016711Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:54:48.016725Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T12:54:52.416501Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:54:52.416516Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:54:59.815950Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:54:59.815966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:55:05.316292Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:55:05.316305Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:56:49.515485Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:56:49.515495Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:56:54.415397Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:56:54.415406Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:56:57.316186Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:56:57.316208Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:02.515685Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:02.515693Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:05.114860Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:05.114878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:08.515249Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:08.515261Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:15.415447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:15.415458Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:19.414483Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:19.414496Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:24.514889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:24.514903Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:30.315550Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:30.315571Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:32.315222Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:32.315236Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:32.415589Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:32.415602Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:32.415620Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T12:57:44.115360Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:44.115372Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:45.815297Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:45.815306Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:57:45.816749Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T12:57:59.514683Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:57:59.514697Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:58:13.515505Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:58:13.515513Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:58:17.414674Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:58:17.414694Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:58:33.314947Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:58:33.314959Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:58:44.214310Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:58:44.214325Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:58:58.714508Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:58:58.714521Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:01.514810Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:01.514826Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:24.515011Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:24.515030Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:40.814470Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:40.814484Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:44.414844Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:44.414863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:46.613792Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:46.613812Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:51.615233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:51.615251Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:56.215094Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:56.215113Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:57.313956Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:57.313973Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T12:59:58.514681Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T12:59:58.514692Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:03.215176Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:03.215193Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:04.713868Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:04.713878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:07.614494Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:07.614502Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:11.414640Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:11.414660Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:15.114213Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:15.114231Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:53.614238Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:53.614248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:55.014740Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:55.014753Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:00:57.114202Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/users/users.module.ts")}
+2024-10-13T13:00:57.114217Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:01:47.213928Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:01:47.213940Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:01:50.213488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:01:50.213504Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:02.513015Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T13:02:02.513027Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:02:04.114175Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:02:04.114197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:08.512658Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:02:08.512670Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:11.414171Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto")}
+2024-10-13T13:02:11.414189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:11.414208Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:02:16.913349Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:02:16.913359Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:18.713213Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:02:18.713225Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:25.213941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:02:25.213952Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:49.713849Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:02:49.713874Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:02:54.813346Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:02:54.813355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:01.313406Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:03:01.313424Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:09.013233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:09.013248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:10.513106Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:10.513115Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:12.813231Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:03:12.813251Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:12.813267Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:03:20.713420Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/dto/create-user.dto.ts")}
+2024-10-13T13:03:20.713437Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:25.113685Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:25.113695Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:26.313146Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:26.313163Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:28.513813Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:28.513834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:33.512823Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:33.512842Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:38.311918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:38.311930Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:40.012927Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:40.012945Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:41.112911Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:41.112924Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:42.613691Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:42.613709Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:43.812771Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:03:43.812786Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:51.412094Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:03:51.412109Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:03:51.452206Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:03:58.613693Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:03:58.613706Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:04:08.512561Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:04:08.512570Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:04:14.712946Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T13:04:14.712957Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:04:21.713106Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:04:21.713124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:04:36.412614Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:04:36.412628Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:04:37.712864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:04:37.712880Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:04:40.812575Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.controller.ts")}
+2024-10-13T13:04:40.812590Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:05:41.011534Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T13:05:41.011543Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:05:43.311991Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T13:05:43.312005Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:05:45.612820Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T13:05:45.612834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:05:47.112514Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/main.ts")}
+2024-10-13T13:05:47.112522Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:05:53.111108Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/src/users/users.service.ts")}
+2024-10-13T13:05:53.111123Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:10:29.411168Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("thunder-collection_api-gateway.json")}
+2024-10-13T13:10:29.411184Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:11:19.610507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("thunder-collection_api-gateway.json")}
+2024-10-13T13:11:19.610523Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:18:09.807638Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:09.807647Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:09.807658Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:18:11.307585Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:11.307594Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:11.507854Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:11.507860Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:11.507870Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:18:20.207445Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:20.207456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:22.408315Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:22.408323Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:23.507533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:23.507541Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:25.707839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:25.707854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:26.908198Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:18:26.908207Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:38.807782Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:18:38.807797Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:43.807677Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:18:43.807693Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:54.806783Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:18:54.806800Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:18:58.307624Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:18:58.307633Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:19:05.807503Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:19:05.807515Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:19:50.306539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:19:50.306556Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:19:54.706830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:19:54.706851Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:19:58.107778Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:19:58.107798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:01.807702Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:01.807718Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:11.806509Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:11.806519Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:24.607260Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:24.607270Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:29.506627Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:29.506642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:30.606539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:30.606548Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:46.107451Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:46.107468Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:20:49.407275Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:20:49.407293Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:30:45.909061Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:30:45.909076Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:30:49.410016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:30:49.410029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:30:53.909052Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:30:53.909072Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:30:55.609699Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:30:55.609718Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:03.209916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:31:03.209929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:08.609039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:31:08.609049Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:14.708406Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:31:14.708424Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:20.109157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:31:20.109172Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:35.808145Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:31:35.808162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:31:51.009332Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json"), AnchoredSystemPathBuf("bun.lockb"), AnchoredSystemPathBuf(".lockb-92288b0cc6206059.tmp")}
+2024-10-13T13:31:51.009345Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:32:00.008820Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:32:00.008838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:03.509070Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:32:03.509089Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:07.509010Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:32:07.509030Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:08.809673Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:08.809690Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:10.208160Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:10.208171Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:12.008967Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:12.008982Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:12.014224Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:32:17.108247Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:17.108263Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:21.008763Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:21.008783Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:22.908466Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:22.908484Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:26.209157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:26.209174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:27.708648Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:27.708670Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:29.108962Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:29.108974Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:37.409487Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:37.409502Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:43.809361Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:32:43.809380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:32:43.833148Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-10-13T13:33:28.009184Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".lockb-1a39ae59f72108d4.tmp"), AnchoredSystemPathBuf("bun.lockb"), AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:33:28.009193Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:33:36.008889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:33:36.008900Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:33:44.708457Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:33:44.708473Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:33:46.008909Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:33:46.008926Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:22.008496Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:34:22.008507Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:35.907893Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:34:35.907914Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:45.208645Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:34:45.208656Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:45.908143Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:34:45.908155Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:57.307622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:34:57.307638Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:34:59.508191Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:34:59.508209Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:35:11.608201Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:35:11.608218Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:35:18.008279Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:35:18.008294Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:35:22.608827Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/nest-cli.json")}
+2024-10-13T13:35:22.608837Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:36:13.508729Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:36:13.508748Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:37:48.607950Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:37:48.607963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:43:30.106059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/src/main.ts")}
+2024-10-13T13:43:30.106072Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:43:41.606628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:43:41.606644Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:43:43.905958Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:43:43.905975Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:43:47.106858Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:43:47.106869Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:43:49.406209Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:43:49.406219Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:43:51.405283Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:43:51.405299Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:44:45.206542Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:44:45.206554Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:44:48.605348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api-gateway/package.json")}
+2024-10-13T13:44:48.605364Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/api-gateway"), path: AnchoredSystemPathBuf("apps/api-gateway") }}))
+2024-10-13T13:44:59.205994Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:44:59.206004Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:45:03.305806Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:45:03.305822Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:45:07.005294Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:45:07.005313Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:45:08.606428Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service/package.json")}
+2024-10-13T13:45:08.606437Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@microservices-boilerplate/user-service"), path: AnchoredSystemPathBuf("apps/user-service") }}))
+2024-10-13T13:50:08.204701Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/services")}
+2024-10-13T13:50:08.204713Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:50:14.503828Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/services/users.ts")}
+2024-10-13T13:50:14.503837Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:50:19.204613Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/constants.ts")}
+2024-10-13T13:50:19.204633Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:50:20.004952Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/services/users.ts")}
+2024-10-13T13:50:20.004964Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T13:50:38.105245Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/index.ts")}
+2024-10-13T13:50:38.105257Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:20:05.075553Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/8.cookie")}
+2024-10-13T18:20:05.075560Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:23:26.875306Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api")}
+2024-10-13T18:23:26.875324Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:23:40.274818Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2024-10-13T18:23:40.274832Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:23:43.475473Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("bun.lockb")}
+2024-10-13T18:23:43.475484Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:23:49.374772Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-10-13T18:23:49.374789Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
+2024-10-13T18:23:51.774864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/api/api-gateway"), AnchoredSystemPathBuf("apps/api-gateway")}
+2024-10-13T18:23:51.774881Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:23:54.974777Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/user-service"), AnchoredSystemPathBuf("apps/api/user-service")}
+2024-10-13T18:23:54.974791Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:24:00.074983Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend")}
+2024-10-13T18:24:00.075002Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:09.474905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/app/page.tsx"), AnchoredSystemPathBuf("apps/frontend/app"), AnchoredSystemPathBuf("apps/frontend/next.config.mjs"), AnchoredSystemPathBuf("apps/frontend/app/layout.tsx"), AnchoredSystemPathBuf("apps/frontend/app/fonts"), AnchoredSystemPathBuf("apps/frontend/app/fonts/GeistVF.woff"), AnchoredSystemPathBuf("apps/frontend/.gitignore"), AnchoredSystemPathBuf("apps/frontend/package.json"), AnchoredSystemPathBuf("apps/frontend/postcss.config.mjs"), AnchoredSystemPathBuf("apps/frontend/app/favicon.ico"), AnchoredSystemPathBuf("apps/frontend/README.md"), AnchoredSystemPathBuf("apps/frontend/next-env.d.ts"), AnchoredSystemPathBuf("apps/frontend/src/app/page.tsx"), AnchoredSystemPathBuf("apps/frontend/tailwind.config.ts"), AnchoredSystemPathBuf("apps/frontend/src/app"), AnchoredSystemPathBuf("apps/frontend/tsconfig.json"), AnchoredSystemPathBuf("apps/frontend/src"), AnchoredSystemPathBuf("apps/frontend/app/globals.css"), AnchoredSystemPathBuf("apps/frontend/app/fonts/GeistMonoVF.woff")}
+2024-10-13T18:27:09.474923Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:10.774567Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/node_modules")}
+2024-10-13T18:27:10.774576Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:11.074380Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/bun.lockb"), AnchoredSystemPathBuf("apps/frontend/.lockb-a335f52dec499001.tmp")}
+2024-10-13T18:27:11.074389Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:13.974338Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/node_modules")}
+2024-10-13T18:27:13.974349Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:16.274434Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/bun.lockb")}
+2024-10-13T18:27:16.274450Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:21.475181Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/frontend/README.md")}
+2024-10-13T18:27:21.475189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-13T18:27:32.474305Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2024-10-13T18:27:32.474338Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All(DefaultGlobalFileChanged))
