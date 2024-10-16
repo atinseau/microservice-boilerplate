@@ -1,11 +1,13 @@
 {
-  "name": "@microservices-boilerplate/api-gateway",
+  "name": "@microservices-boilerplate/user-service",
   "scripts": {
+    "dev": "nest start --watch --preserveWatchOutput",
+    "debug": "nest start --debug --watch --preserveWatchOutput",
     "build": "nest build",
-    "dev": "nest start --watch",
     "start": "nest start",
-    "debug": "nest start --debug --watch",
-    "prod": "node dist/main"
+    "prod": "node dist/main",
+    "clean": "rm -rf dist",
+    "fclean": "rm -rf dist .turbo"
   },
   "dependencies": {
     "@nestjs/common": "^10.0.0",

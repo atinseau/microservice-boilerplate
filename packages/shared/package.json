@@ -11,6 +11,8 @@
     }
   },
   "scripts": {
+    "clean": "rm -rf dist",
+    "fclean": "rm -rf dist .turbo",
     "dev": "rollup --config rollup.config.mjs --watch",
     "build": "rm -rf dist && rollup --config rollup.config.mjs"
   },

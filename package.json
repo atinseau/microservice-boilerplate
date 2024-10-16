@@ -6,7 +6,9 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "turbo run dev --parallel"
+    "dev": "turbo run dev --parallel",
+    "clean": "turbo run clean --parallel",
+    "fclean": "turbo run fclean --parallel && rm -rf node_modules .turbo bun.lockb"
   },
   "packageManager": "bun@1.1.30",
   "dependencies": {

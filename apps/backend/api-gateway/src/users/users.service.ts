@@ -3,7 +3,6 @@ import { ClientProxy } from "@nestjs/microservices";
 import { USERS_SERVICE, USERS_SERVICE_NAME } from "shared";
 
 
-
 @Injectable()
 export class UsersService {
 
