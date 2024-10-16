@@ -1,9 +1,10 @@
 import { NestFactory } from '@nestjs/core';
-import { AppModule } from './app.module';
 import { MicroserviceOptions, Transport } from '@nestjs/microservices';
 import { ValidationPipe } from '@nestjs/common';
+import { AppModule } from './app.module';
 
 async function bootstrap() {
+
   const app = await NestFactory.createMicroservice<MicroserviceOptions>(
     AppModule,
     {
@@ -15,12 +16,11 @@ async function bootstrap() {
     }
   );
 
-  // app.useGlobalPipes(
-  //   new ValidationPipe({
-  //     transform: true,
-  //   })
-  // );
+  app.useGlobalPipes(new ValidationPipe({
+    transform: true,
+  }));
 
   await app.listen();
 }
+
 bootstrap();

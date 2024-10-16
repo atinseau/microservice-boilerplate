@@ -24,7 +24,9 @@ export default defineConfig((args) => {
       'class-validator',
     ],
     plugins: [
-      typescript(),
+      typescript({
+        sourceMap: isWatch,
+      }),
       nodeResolve(),
       ...(!isWatch ? [minify()] : [])
     ],

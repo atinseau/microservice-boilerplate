@@ -1,6 +1,7 @@
 import { Inject, Injectable } from "@nestjs/common";
 import { ClientProxy } from "@nestjs/microservices";
-import { USERS_SERVICE, USERS_SERVICE_NAME } from "shared";
+import { catchError, map, of } from "rxjs";
+import { CreateUserDto, USERS_SERVICE, USERS_SERVICE_NAME } from "shared";
 
 
 @Injectable()
@@ -10,6 +11,10 @@ export class UsersService {
 
   getList() {
     return this.usersClient.send(USERS_SERVICE.GET_LIST, {})
+  }
+
+  create(createUserDto: CreateUserDto) {
+    return this.usersClient.send(USERS_SERVICE.CREATE, createUserDto)
   }
 
 }
